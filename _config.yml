@@ -1,6 +1,6 @@
 name: Jonnitto
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8391432163771242
 title: Jonnitto
 cta:
   domain: null
@@ -24,3 +24,4 @@ purpose:
   - name: follow
     item: d600c5dc-78a1-4ebd-80eb-6ddd1f829005
     url: null
+typography_spectrum: 0.87593342224136
